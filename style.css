@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+  background: linear-gradient(135deg, #1a2e1a 0%, #2d4a2d 60%, #1e5c1e 100%);
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -41,9 +41,9 @@ section {
 
 h2 {
   font-size: 1.6rem;
-  color: #0f3460;
+  color: #1e5c1e;
   margin-bottom: 16px;
-  border-left: 4px solid #e94560;
+  border-left: 4px solid #7ab648;
   padding-left: 12px;
 }
 
@@ -64,13 +64,13 @@ h2 {
   border-radius: 10px;
   padding: 24px 20px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-  border-top: 3px solid #e94560;
+  border-top: 3px solid #7ab648;
 }
 
 .card h3 {
   font-size: 1rem;
   margin-bottom: 8px;
-  color: #0f3460;
+  color: #1e5c1e;
 }
 
 .card p {
@@ -98,7 +98,7 @@ code {
 
 .quote {
   background: white;
-  border-left: 5px solid #e94560;
+  border-left: 5px solid #7ab648;
   border-radius: 0 10px 10px 0;
   padding: 24px 28px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.07);
@@ -113,13 +113,13 @@ blockquote {
 footer {
   text-align: center;
   padding: 28px;
-  background: #1a1a2e;
+  background: #1a2e1a;
   color: #aaa;
   font-size: 0.9rem;
 }
 
 footer a {
-  color: #e94560;
+  color: #7ab648;
   text-decoration: none;
 }
 
